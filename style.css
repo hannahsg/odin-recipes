@@ -6,7 +6,9 @@ body {
 }
 
 #main,
-.description{
+.description,
+.title,
+img{
     text-align: center;
 }
 
