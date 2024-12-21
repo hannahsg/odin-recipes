@@ -1,15 +1,14 @@
 body {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    text-align: left;
+    text-align: center;
     font-size: 25px;
     background-color: bisque;
 }
 
-#main,
-.description,
-.title,
-.img{
-    text-align: center;
+h3,
+.ingredients,
+.instructions{
+    text-align: left;
 }
 
 .title {
