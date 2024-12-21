@@ -1,14 +1,14 @@
-body{
+body {
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
 }
 
-h1{
-    font-size: large;
+h1 {
+    font-size: 50px;
     background-color: rgb(216, 173, 121);
 }
 
-li{
-    font-size: medium;
+ul { 
+    font-size: 25px;
     background-color: bisque;
 }
